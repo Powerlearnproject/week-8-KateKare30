@@ -1,0 +1,41 @@
+### Integration Documentation: Importing Data into Excel from MySQL
+
+#### 1. Prepare the MySQL Database
+- Ensure the database is running and contains the necessary schema and sample data.
+
+#### 2. Open Microsoft Excel
+- Launch Excel.
+
+#### 3. Navigate to Data Import Options
+- Go to `Data > Get Data > From Database > From MySQL Database`.
+
+#### 4. Connect to the MySQL Server
+- Enter the server name, database name, and user credentials.
+
+#### 5. Select Database Tables
+- Select the relevant tables and click `Load`.
+
+#### 6. Load Data into Excel
+- Data will be loaded into separate worksheets.
+
+#### 7. Verify Data Integrity
+- Check that all records are correctly imported.
+
+#### 8. Create Pivot Tables
+- Use `Insert > PivotTable` to create PivotTables for data analysis.
+
+#### 9. Analyze Data with Pivot Tables
+- Summarize data using fields in PivotTables.
+
+#### 10. Create Charts for Data Visualization
+- Use `Insert > Charts` to create visualizations.
+
+#### 11. Build the Dashboard
+- Arrange PivotTables and charts on a dashboard sheet.
+- Add slicers for interactivity.
+
+#### 12. Save the Excel Workbook
+- Save the workbook as `SDG_Health_Dashboard.xlsx`.
+
+#### 13. Documentation and Testing
+- Document the process and test the dashboard for functionality.
