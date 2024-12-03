@@ -1,0 +1,6 @@
+Name,Age,Gender,Year_in_School,Child_ID,Daily_Calories,Daily_Sugar_Intake,Daily_Fat_Intake,Height,Weight,BMI,Daily_Exercise_Minutes,Daily_Screen_Time_Minutes
+"John Doe",10,Male,"Grade 5",1,2000,50,90,140.00,35.00,17.90,60,120
+"Jane Smith",17,Female,"Grade 11",2,1800,40,60,150.00,80.00,25.80,45,150
+"Jane Smit",10,Female,"Grade 6",3,1400,30,89,180.00,40.00,12.80,30,180
+"Janet Smiths",12,Female,"Grade 8",4,900,40,60,190.00,40.00,38.80,15,100
+"Jaye Kith",19,Male,"Grade 12",5,700,55,50,149.00,120.00,29.80,45,150
