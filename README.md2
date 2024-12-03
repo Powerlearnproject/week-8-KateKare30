@@ -20,6 +20,7 @@
 
 #### 7. Verify Data Integrity
 - Check that all records are correctly imported.
+- check for duplicates and null values and remove or update them.
 
 #### 8. Create Pivot Tables
 - Use `Insert > PivotTable` to create PivotTables for data analysis.
